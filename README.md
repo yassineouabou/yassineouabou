@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,30&text=Hi%20There!%20%20I'm%20Yassine%20Ouabou👋&textBg=false&desc=I'm%20Software%20Engineering%20Student%20|%20Backend%20Developer&fontSize=40&descAlignY=54&fontAlign=50&fontAlignY=40&reversal=true&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,30&text=Hi%20There!%20%20I'm%20Yassine%20Ouabou👋&textBg=false&desc=%20Software%20Engineering%20Student%20|%20Backend%20Developer&fontSize=40&descAlignY=54&fontAlign=50&fontAlignY=40&reversal=true&section=header)
 
 <p align="center">
   <a href="https://github.com/yassineouabou">
