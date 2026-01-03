@@ -89,17 +89,6 @@ Currently, I'm focused on:
 
 ---
 
-
-## 🎯 Current Focus
-
-- 🔨 Building production-ready backend applications with Spring Boot
-- 📖 Deepening knowledge in system design and software architecture
-- 🛠️ Mastering DevOps practices: CI/CD pipelines, containerization, and orchestration
-- 🧠 Practicing data structures and algorithms 
-- 🎯 Seeking **internship/junior developer opportunities** in backend development
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
