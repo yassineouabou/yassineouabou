@@ -16,7 +16,7 @@
 
 ## 🌟 About Me
 
-I'm a **Software Engineering student** with professional experience in web development using **Java frameworks (Spring Boot)** and a solid understanding of **CI/CD pipelines** and **DevOps practices**.
+I'm a **Software Engineer** with professional experience in web development using **Java frameworks (Spring Boot)** and a solid understanding of **CI/CD pipelines** and **DevOps practices**.
 
 Passionate about problem-solving and building solutions that address real-world challenges, I'm constantly driven by curiosity and innovation.
 
